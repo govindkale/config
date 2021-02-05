@@ -15,4 +15,4 @@ microservice:
     order-service:
         endpoints:
             endpoint:
-                url:http://ORDER-SERVICE/order/bookOrder
+                url: http://ORDER-SERVICE/order/bookOrder
